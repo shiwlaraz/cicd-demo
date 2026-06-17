@@ -3,12 +3,12 @@
 A simple Flask web application deployed using a **CI/CD pipeline with GitHub and Render**. This project demonstrates a complete DevOps workflow from code development to cloud deployment.
 
 ---
-## 🌐 Live mo
+##  Live 
 
-👉 https://cicd-demo-jjw0.onrender.com
+ https://cicd-demo-jjw0.onrender.com
 ---
 
-# 📌 Project Overview
+#  Project Overview
 
 This project is a basic Flask web application designed to demonstrate:
 
@@ -21,13 +21,13 @@ Every change pushed to GitHub automatically triggers a new deploymenn Render.
 
 ---
 
-# 🏗️ Architecture
+#  Architecture
 
 Developer → GitHub Repository → Render CID → Live Web App
 
 ---
 
-# ⚙️ Tech Stack
+#  Tech Stack
 
 - Python 3
 - Flask
@@ -37,7 +37,7 @@ Developer → GitHub Repository → Render CID → Live Web App
 
 ---
 
-# 📁 Project Structure
+#  Project Structure
 
 cicd-demo/
 │
@@ -48,7 +48,7 @@ cicd-demo/
 
 ---
 
-# 🚀 Features
+# Features
 
 - Simple Flask web server
 - Health check endpoint (/health)
@@ -58,9 +58,9 @@ cicd-demo/
 
 ---
 
-# 📡 API Endpoints
+#  API Endpoints
 
-## 🏠 me
+## me
 
 GET /
 
@@ -69,7 +69,7 @@ CI/CD pipeline is working fine!
 
 ---
 
-## ❤️ Health Check
+## Health Check
 
 GET /health
 
@@ -78,7 +78,7 @@ OK
 
 ---
 
-# 🧪 How to Run Locally
+#  How to Run Locally
 
 ## 1. Clone the repository
 
@@ -99,7 +99,7 @@ http://127.0.0.1:8080
 
 ---
 
-# 🔁 CI/CD Workflow
+# CI/CD Workflow
 
 1. Developer pushes code to GitHub
 2. Render detects new commit
@@ -109,7 +109,7 @@ http://127.0.0.1:8080
 
 ---
 
-# 🧠 What I Learned
+#  What I Learned
 
 - Building and deploying a Flask app
 - Using Git for version control
@@ -119,21 +119,22 @@ http://127.0.0.1:8080
 
 ---
 
-# 📌 Future Improvements
+# Future Improvements
 
-- Add database integration (PostgreSQL)d user authentication
+- Add database integration (PostgreSQL)
+d user authentication
 - Add Doker-based deployment
 - Add GitHub Actions CI pipeline
 - Add unit testing (pytest)
 
 ---
 
-# 👨‍💻 Author
+# Author
 
 Shiwlaraz Das
 
 ---
 
-# ⭐ If you like this project
+# If you like this project
 
-Star the repository ⭐
+Star the repository 
